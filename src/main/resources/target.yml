@@ -1,0 +1,15 @@
+trackerslist:
+  - 'https://trackerslist.com/all.txt'
+animeTrackerList:
+  - 'https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt'
+  - 'https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_all.txt'
+ngosangTrackerslist:
+  - 'https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt'
+  - 'https://ngosang.github.io/trackerslist/trackers_all.txt'
+  - 'https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt'
+newtrackon:
+  - 'https://newtrackon.com/api/stable?include_ipv4_only_trackers=1&include_ipv6_only_trackers=0'
+acgtracker:
+  - 'https://acgtracker.com/'
+
+
