@@ -26,7 +26,7 @@ public class Demo {
 
         HttpClientDownloader httpClientDownloader = new HttpClientDownloader();
         //代理
-//        httpClientDownloader.setProxyProvider(SimpleProxyProvider.from(new Proxy("127.0.0.1", 1081)));
+//        httpClientDownloader.setProxyProvider(SimpleProxyProvider.from(new Proxy("127.0.0.1", 1080)));
 
         Spider trackersListSpider = Spider.create(new TextTrackersProcessor());
         List<String> list = Lists.newArrayList();
